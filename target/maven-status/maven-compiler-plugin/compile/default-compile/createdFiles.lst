@@ -1,0 +1,6 @@
+com\kunal\dao\impl\AWSDaoImpl.class
+com\kunal\dao\AWSDao.class
+com\kunal\service\AWSService.class
+com\kunal\controller\CreateBucketController.class
+com\kunal\AmazonS3Example.class
+com\kunal\service\impl\AWSServiceImpl.class
